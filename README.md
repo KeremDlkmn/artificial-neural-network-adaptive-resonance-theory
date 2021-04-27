@@ -1,3 +1,6 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+![GitHub Repo stars](https://img.shields.io/github/stars/KeremDlkmn/artificial-neural-network-adaptive-resonance-theory?style=social)
+
 # Artificial Neural Network Adaptive Resonance Theory
 
 **ART**(**A**daptive **R**esonance **T**heory) networks have emerged as a result of studies on the functions of the biological brain in 1976 in Grosberg. This model has 3 main features<br />
